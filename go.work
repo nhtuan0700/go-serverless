@@ -1,0 +1,7 @@
+go 1.22.0
+
+use (
+	./hello-lambda
+	./lambda_api-gateway/code/get
+	./lambda_api-gateway/code/list
+)

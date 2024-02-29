@@ -1,0 +1,7 @@
+**/.env
+*.tfstate
+*.tfstate.backup
+*.terraform.tfstate.lock.info
+.terraform
+go.sum
+go.work.sum
